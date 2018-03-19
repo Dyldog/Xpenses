@@ -1,0 +1,6 @@
+target 'Expenses'
+use_frameworks!
+
+pod "Cartography"
+pod "Eureka"
+pod "SwiftDate"

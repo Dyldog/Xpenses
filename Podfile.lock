@@ -1,0 +1,35 @@
+PODS:
+  - Cartography (3.0.1)
+  - Eureka (4.1.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - RRuleSwift (0.2.0)
+  - SwiftDate (4.5.1)
+
+DEPENDENCIES:
+  - Cartography
+  - Eureka
+  - MagicalRecord
+  - RRuleSwift (from `https://github.com/meetakshay99/RRuleSwift.git`)
+  - SwiftDate
+
+EXTERNAL SOURCES:
+  RRuleSwift:
+    :git: https://github.com/meetakshay99/RRuleSwift.git
+
+CHECKOUT OPTIONS:
+  RRuleSwift:
+    :commit: 8d502cb177281698eb339234e0697238a98bc318
+    :git: https://github.com/meetakshay99/RRuleSwift.git
+
+SPEC CHECKSUMS:
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  Eureka: 5770ef95bbbbe52f8abbc0d9bea6ee8282c50209
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  RRuleSwift: be2f91fb6bedd46e967bd419642c14b96a339284
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+
+PODFILE CHECKSUM: 6ae0a77367546d9809427587a317bd7b275a48db
+
+COCOAPODS: 1.4.0
